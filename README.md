@@ -1,0 +1,3 @@
+Este projeto da AV1 de Tecnologia explora o uso de inteligência artificial preditiva integrada com a API do Amadeus para análise e previsão de dados de viagens. A solução utiliza dados fornecidos pela API para prever preços de voos, identificar padrões de demanda e otimizar o planejamento de viagens, oferecendo uma ferramenta poderosa para consumidores e empresas tomarem decisões mais informadas sobre viagens aéreas.
+
+A aplicação combina tecnologias de machine learning com APIs externas para fornecer insights em tempo real, permitindo maior precisão na previsão de tarifas e melhoria da experiência do usuário no planejamento de viagens.
